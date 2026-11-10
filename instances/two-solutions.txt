@@ -1,0 +1,8 @@
+# Two solutions: the clues cannot tell the diagonals apart
+rows
+1
+1
+
+columns
+1
+1
